@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gradle Automation UP - Paid</string>
+    <string name="flavor_name">Paid flavor</string>
+</resources>
