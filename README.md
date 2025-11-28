@@ -1,4 +1,4 @@
-## 🧩 Exercise – TODO for Students
+##  Exercise – TODO for Students
 
 This project is an *Unfinished Project (UP)*.  
 Your job is to complete the Gradle configuration and the custom task.
